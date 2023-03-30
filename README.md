@@ -1,6 +1,6 @@
 Used Figma Software to re-create the designs. Completed the design with in 1hr30minz of time.
 
-Desktop verion png files are pinned above 
+Desktop version png files are pinned above 
 
 Here are the Mobile version prototypes, I have done in figma
 
